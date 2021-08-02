@@ -1,6 +1,6 @@
 export const managers = [
    {
-     "roster": 3,  // ID of the roster that the manager manages
+     "roster": 5,  // ID of the roster that the manager manages
      "name": "Wyatt",
      "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
      "location": "Overland Park",
@@ -22,7 +22,7 @@ export const managers = [
      "prefferedContact": "Text", // 'Text', 'WhatsApp', and 'Carrier Pigeon' are currently supplied in the template
    },
   {
-     "roster": 2,  // ID of the roster that the manager manages
+     "roster": 6,  // ID of the roster that the manager manages
      "name": "Cole",
      "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
      "location": "Storm Lake",
@@ -66,7 +66,7 @@ export const managers = [
      "prefferedContact": "Text", // 'Text', 'WhatsApp', and 'Carrier Pigeon' are currently supplied in the template
    },
    {
-     "roster": 4,  // ID of the roster that the manager manages
+     "roster": 2,  // ID of the roster that the manager manages
      "name": "Kody",
      "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
      "location": "Ames",
@@ -88,7 +88,7 @@ export const managers = [
      "prefferedContact": "Text", // 'Text', 'WhatsApp', and 'Carrier Pigeon' are currently supplied in the template
    },
    {
-     "roster": 5,  // ID of the roster that the manager manages
+     "roster": 8,  // ID of the roster that the manager manages
      "name": "Joey",
      "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
      "location": "idfk",
@@ -110,7 +110,7 @@ export const managers = [
      "prefferedContact": "Text", // 'Text', 'WhatsApp', and 'Carrier Pigeon' are currently supplied in the template
    },
    {
-     "roster": 6,  // ID of the roster that the manager manages
+     "roster": 4,  // ID of the roster that the manager manages
      "name": "Colten",
      "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
      "location": "idfk",
@@ -154,7 +154,7 @@ export const managers = [
      "prefferedContact": "Text", // 'Text', 'WhatsApp', and 'Carrier Pigeon' are currently supplied in the template
    },
    {
-     "roster": 8,  // ID of the roster that the manager manages
+     "roster": 9,  // ID of the roster that the manager manages
      "name": "Ryan",
      "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
      "location": "idfk",
@@ -176,7 +176,7 @@ export const managers = [
      "prefferedContact": "Text", // 'Text', 'WhatsApp', and 'Carrier Pigeon' are currently supplied in the template
    },
    {
-     "roster": 9,  // ID of the roster that the manager manages
+     "roster": 10,  // ID of the roster that the manager manages
      "name": "Josh",
      "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
      "location": "idfk",
@@ -198,7 +198,7 @@ export const managers = [
      "prefferedContact": "Text", // 'Text', 'WhatsApp', and 'Carrier Pigeon' are currently supplied in the template
    },
    {
-     "roster": 10,  // ID of the roster that the manager manages
+     "roster": 3,  // ID of the roster that the manager manages
      "name": "TangDeNasty",
      "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
      "location": "idfk",
